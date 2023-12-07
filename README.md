@@ -1,6 +1,7 @@
+
 <h1 align="center">Hi 👋, I'm Maria khan</h1>
 <h3 align="center">A passionate frontend developer from United States</h3>
-<div align="center"> <img src="https://.raw.githubusercontent.com/mariakh92/mariakh92/main/github-header-image.png"></div>
+<div align="center"> <img src="https://raw.githubusercontent.com/mariakh92/mariakh92/main/github-header-image.png"></div>
 
 <img align= "right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
